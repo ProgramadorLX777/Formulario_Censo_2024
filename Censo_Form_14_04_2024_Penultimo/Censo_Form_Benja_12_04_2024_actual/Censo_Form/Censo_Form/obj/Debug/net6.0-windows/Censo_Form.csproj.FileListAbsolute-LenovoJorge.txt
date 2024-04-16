@@ -1,0 +1,50 @@
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.exe
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.deps.json
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.runtimeconfig.json
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.dll
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.pdb
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.Form1.resources
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.GenerateResource.cache
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.AssemblyInfoInputs.cache
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.AssemblyInfo.cs
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.dll
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\refint\Censo_Form.dll
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.pdb
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.genruntimeconfig.cache
+C:\Users\Laboratorio\source\repos\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\ref\Censo_Form.dll
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.exe
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.deps.json
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.runtimeconfig.json
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.dll
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.pdb
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.Form1.resources
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.GenerateResource.cache
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.AssemblyInfoInputs.cache
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.AssemblyInfo.cs
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.dll
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\refint\Censo_Form.dll
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.pdb
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.genruntimeconfig.cache
+C:\Users\GAMER\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\ref\Censo_Form.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.exe
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.deps.json
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.runtimeconfig.json
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\bin\Debug\net6.0-windows\Censo_Form.pdb
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.Form1.resources
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\refint\Censo_Form.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.pdb
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\ref\Censo_Form.dll
+C:\Users\Lenovo\OneDrive - Corporación Santo Tomas\SegundoAñoInformaticaST\.NET\Censo_Form\Censo_Form\obj\Debug\net6.0-windows\Censo_Form.Form2.resources
